@@ -1,0 +1,37 @@
+#units{
+    margin: auto;
+    margin-top: 21px;
+    /* border: 1px solid black; */
+    width: 70%;
+}
+.levels{
+    margin: auto;
+    background-color: rgb(206, 228, 228);
+}
+.levelBtn{
+    /* background-color: #063212; */
+    background-color: rgb(65, 124, 5);
+    border: none;
+    border-radius: 7px;
+    color: white;
+    height: 41px;
+    font-size: large;
+    font-weight: bold;
+    width: 222px;
+}
+.levelBtn:hover{
+    background-color: rgb(91, 175, 7);
+}
+.card-text{
+    display: block;
+    margin-bottom: 21px;
+}
+#chapter{
+    display: flex;
+    justify-content: center;
+    margin-top: 51px;
+    font-family: "Archivo";
+    font-weight: bold;
+    color: rgb(6, 50, 18);
+}
+

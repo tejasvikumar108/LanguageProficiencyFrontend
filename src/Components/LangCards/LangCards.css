@@ -1,0 +1,22 @@
+.cardStyle{
+    margin: 30px;
+    padding: 11px;
+    margin-top: 0px;
+    background-color: rgb(19,31,36);
+    color: white;
+    /* height: 151px; */
+    width: 16%;
+    height: 50%;
+    font-family: "Archivo";
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+.card-text{
+    display: flex;
+    justify-content: center;
+}
+:link{
+    color: white;
+    text-decoration: none;
+}
